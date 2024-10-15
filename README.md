@@ -1,3 +1,6 @@
+## Edwin Alexander Del Cid Martinez
+U20221253
+
 ## 1. Instalación de React
 El primer paso es la instalación de React usando create-react-app, una herramienta que te permite crear un proyecto React preconfigurado.
 
